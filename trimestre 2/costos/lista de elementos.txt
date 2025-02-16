@@ -1,0 +1,17 @@
+lista de insumos necesarios para el software:
+
+- Almacenamiento:
+
+- Figma:
+
+- Antivirus:
+
+- Repositorio:
+
+- Bases de datos:
+
+- Dominio:
+
+- Maquina virtual:
+
+- Portatil para desarrollo:

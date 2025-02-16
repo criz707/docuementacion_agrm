@@ -1,0 +1,15 @@
+1 - rendimiento
+2 - escalabilidad
+3 - disponibilidad
+4 - seguridad
+5 - usabilidad
+6 - campatibilidad
+7 - mantenimiento
+8 - recuperacion ante desasters
+9 - documentacion
+10 - soporte api
+11 - Monitoreo
+12 - cumplimiento normativo
+13 - eficiencia
+14 - flexibilidad
+15 - interfaz grafica
